@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "chapter5/src/sec02",
+        "chapter5/src/sec01",
+        "chapter4/src/sec02",
+        "chapter4/src/sec01",
+        "chapter3/src/sec02",
+        "Chpater6/src/sec01"
+    ],
+    "java.dependency.packagePresentation": "flat"
+}
